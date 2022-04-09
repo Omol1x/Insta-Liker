@@ -1,5 +1,6 @@
-#Позаимствовал JSON to NETSCAPE у lolz.guru/members/2977610
+#Позаимствовал NETSCAPE to JSON у lolz.guru/members/2977610
 #Свежая версия chromedriver - bit.ly/35PexKM
+#Мой лолз - lolz.guru/market/28417127
 
 import requests, os, json
 from selenium import webdriver
